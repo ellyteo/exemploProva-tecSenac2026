@@ -1,2 +1,2 @@
-# Exemplo-avalia-o-tecSenac2026
+# ExemploProva-tecSenac2026
 Exemplo para a avaliação do prof Renan
